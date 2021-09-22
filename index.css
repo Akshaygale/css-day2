@@ -1,7 +1,8 @@
 .backsurround{
-    border: 5px solid greenyellow; 
+    border: 8px solid greenyellow; 
     background-image: url(./image1.2.jpg);
     background-size:cover;
+    border-style: groove;
     
 }
 
