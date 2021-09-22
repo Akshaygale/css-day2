@@ -1,0 +1,139 @@
+.backsurround{
+    border: 5px solid greenyellow; 
+    background-image: url(./image1.2.jpg);
+    background-size:cover;
+    
+}
+
+.para{
+    border: 5px solid red;
+    font-style: italic;
+    background: black;
+    text-align: center;
+    color: white;
+    margin-top: 32px;
+    margin-left: 35px;
+}
+.para1{
+    height: 130px;
+    width: 350px;
+    padding: 12px;
+    border-radius: 30px;
+    font-size:xx-large;
+    
+}
+.para2{ 
+    height: 50px;
+    width: 500px;
+    padding-top: 30px;
+    border-radius: 35px;
+    font-size:xx-large;
+    
+}
+.para3{
+    height: 130px;
+    width: 400px;
+    padding: 12px;
+    border-radius: 20px;
+    font-size:x-large;
+
+}
+
+.circle{
+    border: 5px solid violet;
+    background: lightblue;
+    height: 420px;
+    width: 420px;
+    border-radius: 50%;
+    text-align: center; 
+    margin-top: 180px;
+    font-size: larger;
+    position: absolute;
+    left: 100px;
+    
+}
+.circletop{
+    margin-top: 100px;
+}
+.circlemiddle{
+    text-decoration: underline;
+}
+
+.form{
+    height: 700px;
+    width: 400px;
+    border: 5px dashed lawngreen;
+    text-align: center;
+    color: yellow;
+    margin-top: 0px;
+    font-size: larger;
+    position: relative;
+    left: 800px;
+    top: 30px;
+}
+
+.menu{
+    font-size:xx-large;
+    border: 7px solid red;
+    height: 50px;
+    width: 500px;
+    font-style: italic;
+    padding: 15px;
+    color: white;
+    background: black;
+    border-radius: 35px;
+    text-align: center;
+    margin-inline: 500px;
+    margin-top: 50px;
+}
+
+.box{
+    border: 2px solid green;
+    background: aqua;
+    margin: 10px;
+    width:400px;
+    text-align: center;
+    border-radius: 30px;
+    margin-bottom: 70px;
+}
+
+.boxheading{
+    font: size 2000px;;
+    font-weight: bolder;
+}
+
+.box1{
+    font-size: x-large;
+    position: absolute;
+    left: 40px;
+}
+
+.box2{
+    font-size: x-large;
+    position: absolute;
+    left: 550px;
+}
+
+.box3{
+    font-size: x-large;
+    position: relative;
+    left:1050px;
+}
+
+.box4{
+    font-size: x-large;
+    position: absolute;
+    left: 40px;
+}
+
+.box5{
+    font-size: x-large;
+    position: absolute;
+    left: 550px;
+}
+
+.box6{
+    font-size: x-large;
+    position: relative;
+    left:1050px;
+}
